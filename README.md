@@ -8,8 +8,9 @@
 Я создал все необходимые предпосылки, которые позволят пользователям начать оценивать сеть.
 
 Образ можете скачать сдесь: https://github.com/entropy1337/Infernal-Linux/releases
-                                   	<br>or<br>
-                            https://github.com/entropy1337/Infernal-Linux/releases
+                                   	<h4 align=center>or</h4>
+                            https://github.com/entropy1337/Infernal-Linux/releases<br>
+   =========================================================================================================<br>
 
 url="https://github.com/entropy1337/Infernal-Linux/releases/download/v1.0/Infernal.Kali.iso";file="../Infernal.Kali.iso"
 wget-ssl --no-check-certificate $url > $file
